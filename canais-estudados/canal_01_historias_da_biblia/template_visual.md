@@ -2,35 +2,40 @@
 
 ## Composição
 
-Personagem dominante ocupa grande parte da imagem.
+Personagem dominante ocupa aproximadamente 50–70% da imagem.
 
-Escala: 50–70%
+Câmera:
 
-## Câmera
+- close-up
+- medium shot
 
-close-up ou medium shot
+---
 
-## Cenário
+## Hierarquia visual
 
-ruínas
-paisagens épicas
-ambientes pós-apocalípticos
+1. rosto do personagem
+2. símbolo narrativo
+3. cenário épico
+
+---
 
 ## Paleta
 
-base:
+Base:
 
-- marrom
 - areia
-- verde escuro
+- marrom
+- cinza pedra
 
-acento:
+Acento:
 
 - fogo
-- luz divina
+- dourado
 
-## Estética
+---
 
-- cinematográfica
-- contraste alto
-- profundidade dramática
+## Textura
+
+- rosto extremamente nítido
+- fundo com haze
+- iluminação cinematográfica
