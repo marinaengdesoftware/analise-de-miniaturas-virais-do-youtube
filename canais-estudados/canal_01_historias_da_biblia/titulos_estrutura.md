@@ -1,16 +1,12 @@
-Daniel (2026) O Filme que Impactou o Mundo
-Paixão de Cristo - O Filme
-Nefilins | A História Oculta da Bíblia
-
 # Estrutura de Títulos Virais
 
-Após análise dos títulos do canal, foi possível identificar padrões recorrentes.
+Após analisar os títulos do canal, foram identificados padrões estruturais recorrentes.
 
 ---
 
-# Estrutura Principal
+## Estrutura principal
 
-[Personagem ou Evento] + (Ano ou Contexto) + Promessa de Impacto
+[Personagem ou evento] + [promessa dramática]
 
 Exemplo:
 
@@ -18,24 +14,18 @@ Daniel (2026) O Filme que Impactou o Mundo
 
 ---
 
-# Padrões Narrativos
+## Padrões narrativos
 
-## Promessa de Revelação
+### Promessa de impacto
 
-"A história oculta"
-"O filme que chocou o mundo"
+- "que chocou o mundo"
+- "que impactou o mundo"
 
-## Escala épica
+### Revelação histórica
 
-"Impactou o mundo"
-"Quando Deus ficou furioso"
+- "história oculta"
+- "segredos da bíblia"
 
-## Curiosidade histórica
+### Escala épica
 
-referência a personagens bíblicos conhecidos
-
----
-
-# Template de Título
-
-[Personagem ou Evento] + [Promessa dramática] + [Escala global]
+- eventos que mudaram a humanidade
